@@ -1,0 +1,6 @@
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\bin\Debug\LinqGroupBySample01.exe.config
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\bin\Debug\LinqGroupBySample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\bin\Debug\LinqGroupBySample01.pdb
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\obj\Debug\LinqGroupBySample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\obj\Debug\LinqGroupBySample01.pdb
+C:\C# Test\31-Google Blogger\02-DemoCode\20150124-LinqGroupBy\LinqGroupBySample01\obj\Debug\LinqGroupBySample01.csprojResolveAssemblyReference.cache
